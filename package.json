@@ -1,5 +1,6 @@
 {
   "name": "my_presentation",
+  "homepage": "http://ionutdiaconescu-website.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
