@@ -29,6 +29,15 @@ const Social = () => {
       >
         <i class="uil uil-facebook"></i>
       </a>
+
+      <a
+        href="https://www.linkedin.com/in/ionut-diaconescu-381070265/"
+        className="home__social-icon"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <i class="bx bxl-linkedin-square"></i>
+      </a>
     </div>
   );
 };

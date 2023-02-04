@@ -36,6 +36,15 @@ const Footer = () => {
           >
             <i class="bx bxl-facebook"></i>
           </a>
+
+          <a
+            href="https://www.linkedin.com/in/ionut-diaconescu-381070265/"
+            className="footer__social-link"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <i class="bx bxl-linkedin-square"></i>
+          </a>
         </div>
         <span className="footer__copy">
           &#169; Copyright.All rights reserved
