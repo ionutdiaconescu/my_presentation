@@ -26,17 +26,17 @@ const Frontend = () => {
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Bootstrap</h3>
+              <h3 className="skills__name">TailwindCSS</h3>
             </div>
-            <i class="bx bxl-bootstrap"></i>
+            <i class="bx bxl-tailwind-css"></i>
           </div>
 
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Sass</h3>
+              <h3 className="skills__name">Bootstrap</h3>
             </div>
-            <i class="bx bxl-sass"></i>
+            <i class="bx bxl-bootstrap"></i>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
