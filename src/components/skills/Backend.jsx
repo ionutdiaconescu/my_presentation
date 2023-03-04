@@ -26,6 +26,14 @@ const Backend = () => {
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
+              <h3 className="skills__name">Netlify</h3>
+            </div>
+            <i class="bx bxl-netlify"></i>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
               <h3 className="skills__name">Sanity</h3>
             </div>
           </div>
