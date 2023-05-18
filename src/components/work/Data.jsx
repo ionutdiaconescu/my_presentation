@@ -5,7 +5,7 @@ import Work4 from "../../assets/calculator.png";
 import Work5 from "../../assets/login-platform.png";
 import Work6 from "../../assets/password-generator.png";
 import Work7 from "../../assets/card-matching-game.png";
-import Work8 from "../../assets/movie-interface-app.png";
+import Work8 from "../../assets/dnd-img.png";
 import Work9 from "../../assets/youtube-clone.png";
 import Work10 from "../../assets/price-comparison.png";
 import Work11 from "../../assets/tic-tac-toe.png";
@@ -73,10 +73,10 @@ export const projectsData = [
   {
     id: 8,
     image: Work8,
-    title: "Movie Web Interface-HTML,CSS,JS,React",
+    title: "ShoppWebsite-Tailwind,JS,React",
     category: "web",
-    linkapp: "https://app-movie-interface.netlify.app",
-    githublink: "https://github.com/ionutdiaconescu/movie-app-interface",
+    linkapp: "http://dnd-website-94e93.web.app",
+    githublink: "https://github.com/ionutdiaconescu/dnd-packaging-products",
   },
   {
     id: 9,
