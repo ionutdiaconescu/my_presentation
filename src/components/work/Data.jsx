@@ -75,7 +75,7 @@ export const projectsData = [
     image: Work8,
     title: "ShoppWebsite-Tailwind,JS,React",
     category: "web",
-    linkapp: "http://dnd-website-94e93.web.app",
+    linkapp: "https://www.ambalaje-dnd.com/",
     githublink: "https://github.com/ionutdiaconescu/dnd-packaging-products",
   },
   {
